@@ -34,7 +34,7 @@ namespace pryAccastelloControlDeTiempo
                 cronometro.Restart();
                 temporizadorCorriendo = true;
                 btnTemporizador.Text = "Detener";
-                lblTiempo.Text = "0.00 s";
+                lblTiempo.Text = "0.00 s";//
             }
             else
             {
